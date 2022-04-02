@@ -4,7 +4,7 @@
     <h3>Hello Visitor, Namaste</h3>
 </div>
 
-Myself &nbsp; <strong style="font-size:1.5rem; font-family:Verdana">Satya </strong>
+Myself  <strong>Satya </strong>
 
 I am a Freelane Full Stack Blockchain Developer | Technical Content Creator | Open Source Enthusiast
 <br /> <br />
